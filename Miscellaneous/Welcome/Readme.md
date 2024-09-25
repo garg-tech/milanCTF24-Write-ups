@@ -1,5 +1,4 @@
-## Challenge
-Welcome
+## Welcome
 
 ## Description
 Welcome to MilanCTF (Sanity Check) Join The [Discord Server](https://discord.gg/5RSsMbvp) for Updates!
