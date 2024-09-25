@@ -1,7 +1,6 @@
 ## Welcome
 
-## Description
-Welcome to MilanCTF (Sanity Check) Join The [Discord Server](https://discord.gg/5RSsMbvp) for Updates!
+**Description:** Welcome to MilanCTF (Sanity Check) Join The [Discord Server](https://discord.gg/5RSsMbvp) for Updates!
 
 ## Solution
 You can find the flag in the Discord Server in `milanCTF24 > announcements > Rules`. It is provided as an example.
