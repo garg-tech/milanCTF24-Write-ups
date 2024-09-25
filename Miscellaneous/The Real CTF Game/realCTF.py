@@ -13,11 +13,11 @@ def main():
     playerX, playerY = 0, 0
 
     # Try each cell in the key position range
-    for keyY in range(0, 380):
+    for keyY in range(0, 381):
         while playerX:
             conn.sendline(b'a')
             playerX -= 1
-        for keyX in range(0, 380):            
+        for keyX in range(0, 381):            
             # Move to the key position (keyX, keyY)
             while playerY < keyY:
                 conn.sendline(b's')  # Move down
